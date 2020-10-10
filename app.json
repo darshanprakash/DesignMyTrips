@@ -4,9 +4,9 @@
     "slug": "DesignMyTrips",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo_old.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo_old.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An app which simplifies your trip planning."
   }
 }
